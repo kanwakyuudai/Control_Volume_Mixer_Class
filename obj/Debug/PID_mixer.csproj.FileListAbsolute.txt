@@ -1,8 +1,0 @@
-c:\users\computing\documents\visual studio 2015\Projects\PID_mixer\PID_mixer\bin\Debug\PID_mixer.exe.config
-C:\Users\Computing\documents\visual studio 2015\Projects\PID_mixer\PID_mixer\obj\Debug\PID_mixer.csprojResolveAssemblyReference.cache
-C:\Users\Computing\documents\visual studio 2015\Projects\PID_mixer\PID_mixer\bin\Debug\PID_mixer.exe
-C:\Users\Computing\documents\visual studio 2015\Projects\PID_mixer\PID_mixer\bin\Debug\PID_mixer.pdb
-C:\Users\Computing\documents\visual studio 2015\Projects\PID_mixer\PID_mixer\bin\Debug\CSCore.dll
-C:\Users\Computing\documents\visual studio 2015\Projects\PID_mixer\PID_mixer\bin\Debug\CSCore.xml
-C:\Users\Computing\documents\visual studio 2015\Projects\PID_mixer\PID_mixer\obj\Debug\PID_mixer.exe
-C:\Users\Computing\documents\visual studio 2015\Projects\PID_mixer\PID_mixer\obj\Debug\PID_mixer.pdb
